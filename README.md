@@ -1,4 +1,4 @@
-simudf
+Bus Plays
 ======
 
-Destinado ao projeto Sistema Inteligente de Mobilidade Urbana
+Destinado ao projeto Bus Plays, Mobilidade como um Serviço
