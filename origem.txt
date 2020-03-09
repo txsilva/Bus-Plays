@@ -1,0 +1,39 @@
+<form action="origem.php" method="get">
+<label style="font-size: 18px;"> Cidade de origem<br>
+<select name="origem" style="width: 100%">
+<option value="1">Onde vai embarcar?</option>
+<option value="aguasClaras">Águas Claras</option>
+<option value="arniqueiras">Arniqueira</option>
+<option value="brazlandia">Brazlândia</option>
+<option value="candangolandia">4Candangolândia</option>
+<option value="ceilandia">Ceilândia</option>
+<option value="cruzeiro">Cruzeiro</option>
+<option value="fercal">Fercal</option>
+<option value="gama">Gama</option>
+<option value="guara">Guará</option>
+<option value="itapoa">Itapoã</option>
+<option value="jardimBotanico">Jardim Botânico</option>
+<option value="lagoNorte">Lago Norte</option>
+<option value="lagoSul">Lago Sul</option>
+<option value="nucleoBandeirante">Núcleo Bandeirante</option>
+<option value="paranoa">Paranoá</option>
+<option value="parkWay">Park Way</option>
+<option value="planaltina">Planaltina</option>
+<option value="planoPiloto">Plano Piloto</option>
+<option value="recandoEmas">Recanto das Emas</option>
+<option value="riachoFundo">Riacho Fundo</option>
+<option value="riachoFundoII">Riacho Fundo II/option>
+<option value="samambaia">Samambaia</option>
+<option value="santaMaria">Santa Maria</option>
+<option value="saoSebastiao">São Sebastião</option>
+<option value="sobradinho">Sobradinho</option>
+<option value="sobrasinhoII">Sobradinho II</option>
+<option value="solNascente">Sol Nascente/Pôr do Sol</option>
+<option value="sudoesteOctonogal">Sudoeste/Octogonal</option>
+<option value="taguatinga">Taguatinga</option>
+<option value="varjao">Varjão</option>
+<option value="vicentePires">Vicente Pires</option>
+</select></label><br><br>
+
+<input type="submit" value="Consultar" style="width: 100%; font-size: 18px;">
+</form>
