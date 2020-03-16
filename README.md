@@ -5,10 +5,15 @@ Destinado ao projeto Bus Plays - Mobilidade como um Serviço.
 
 Página principal: http://www.busplays.com.br/
 Alerta: http://www.busplays.com.br/home/alerta/
+
 Ponto de interesse:
+
 Ceilândia - https://www.busplays.com.br/unb-ceilandia-ponto-de-interesse/
+
 Planaltina - https://www.busplays.com.br/unb-planaltina-ponto-de-interesse/ 
+
 Gama - https://www.busplays.com.br/unb-gama-ponto-de-interesse/
+
 Darcy - https://www.busplays.com.br/unb-darcy-ponto-de-interesse/
 
 Versão 1.0.3 (recente)
