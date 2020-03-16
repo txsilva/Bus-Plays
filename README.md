@@ -3,14 +3,22 @@ Bus Plays - https://www.busplays.com.br/
 
 Destinado ao projeto Bus Plays - Mobilidade como um Serviço.
 
+Página principal: http://www.busplays.com.br/
+Alerta: http://www.busplays.com.br/home/alerta/
+Ponto de interesse:
+Ceilândia - https://www.busplays.com.br/unb-ceilandia-ponto-de-interesse/
+Planaltina - https://www.busplays.com.br/unb-planaltina-ponto-de-interesse/ 
+Gama - https://www.busplays.com.br/unb-gama-ponto-de-interesse/
+Darcy - https://www.busplays.com.br/unb-darcy-ponto-de-interesse/
+
 Versão 1.0.3 (recente)
 Liberada em 15/03/2020:
  - criação das páginas dos pontos de interesse para os campus da UnB do plano piloto, ceilândia, gama e planaltina. Esses quatro pontos de interesse, são os testes principais para 2020.
 
 Versão 1.0.2 (recente)
 Liberada em 09/03/2020:
- - criação das páginas das cidades, para servir como ponto de origem para os embarques. Por hora as páginas ainda não recebem conteúdo de linhas de ônibus ou metrô, porque a ferramenta será testada ao longo do mês de março. Exemplo: http://www.busplays.com.br/aguas-claras/
- - criada a página do ponto de interesse para o campus Darcy Ribeiro, com design preliminar, mas com informações atualizadas pelo geojson das linhas direto para esse ponto de interesse. Exemplo: http://www.busplays.com.br/unb-darcy-ponto-de-interesse/
+ - criação das páginas das cidades, para servir como ponto de origem para os embarques. Por hora as páginas ainda não recebem conteúdo de linhas de ônibus ou metrô, porque a ferramenta será testada ao longo do mês de março.
+ - criada a página do ponto de interesse para o campus Darcy Ribeiro, com design preliminar, mas com informações atualizadas pelo geojson das linhas direto para esse ponto de interesse.
  - retirado a ferramenta de pesquisa de origem e destino, porque os mapas ainda não estão disponíveis.
 
 Versão 1.0.1 (+1 mês)
