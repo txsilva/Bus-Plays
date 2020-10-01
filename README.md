@@ -15,7 +15,7 @@ Gama - https://www.busplays.com.br/unb-gama-ponto-de-interesse/
 Darcy - https://www.busplays.com.br/unb-darcy-ponto-de-interesse/
 
 Versão 1.0.6 (Atual)
-Liberada em 03/07/2020
+Liberada em 01/10/2020
  - Correção no design alerta para o open street maps.
  - Correção no cadastro e validação de alertas.
 
