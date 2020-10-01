@@ -29,12 +29,9 @@ Liberada em 15/04/2020
  - Correção no design das páginas sobre, alerta, acesso, udemy (curso qgis), mídia. Todas estão sob o fundo branco e background azul claro.
  - Mensagem sobre o período de pandemia do coronavirus na home.
 
-Versão 1.0.3 (+6 mês)
-Liberada em 15/03/2020:
+Versão 1.0.0 a 1.0.3 (Antiga)
+20/01/2020 a 15/03/2020:
  - criação das páginas dos pontos de interesse para os campus da UnB do plano piloto, ceilândia, gama e planaltina. Esses quatro pontos de interesse, são os testes principais para 2020.
-
-Versão 1.0.0 a 1.0.2 (Antiga)
-20/01/2020 a 09/03/2020:
  - criação das páginas das cidades, para servir como ponto de origem para os embarques. Por hora as páginas ainda não recebem conteúdo de linhas de ônibus ou metrô, porque a ferramenta será testada ao longo do mês de março.
  - criada a página do ponto de interesse para o campus Darcy Ribeiro, com design preliminar, mas com informações atualizadas pelo geojson das linhas direto para esse ponto de interesse.
  - retirado a ferramenta de pesquisa de origem e destino, porque os mapas ainda não estão disponíveis.
