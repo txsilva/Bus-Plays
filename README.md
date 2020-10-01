@@ -3,10 +3,10 @@
 
 ## Destinado ao projeto Bus Plays - Mobilidade como um Serviço.
 
-1. Página principal: http://www.busplays.com.br/
-2. Alerta: http://www.busplays.com.br/home/alerta/
-3. Acesso/Cadastro: http://www.busplays.com.br/home/acesso/
-4. Sobre: http://www.busplays.com.br/home/acesso/
+1. [Página principal] (http://www.busplays.com.br/)
+2. [Alerta] (http://www.busplays.com.br/home/alerta/)
+3. [Acesso/Cadastro] (http://www.busplays.com.br/home/acesso/)
+4. [Sobre] (http://www.busplays.com.br/home/acesso/)
 
 ## Ponto de interesse:
 
