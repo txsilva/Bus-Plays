@@ -1,11 +1,11 @@
 # Bus Plays - https://www.busplays.com.br/
 ======
 
-Destinado ao projeto Bus Plays - Mobilidade como um Serviço.
+##Destinado ao projeto Bus Plays - Mobilidade como um Serviço.
 
-Página principal: http://www.busplays.com.br/
-Alerta: http://www.busplays.com.br/home/alerta/
-Acesso/Cadastro: http://www.busplays.com.br/home/acesso/
+1. Página principal: http://www.busplays.com.br/
+2. Alerta: http://www.busplays.com.br/home/alerta/
+3. Acesso/Cadastro: http://www.busplays.com.br/home/acesso/
 
 Ponto de interesse:
 
