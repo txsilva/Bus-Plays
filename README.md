@@ -15,7 +15,12 @@
 3. [Gama](https://www.busplays.com.br/unb-gama-ponto-de-interesse/)
 4. [Darcy](https://www.busplays.com.br/unb-darcy-ponto-de-interesse/)
 
-Versão 1.0.6 (Atual)
+Versão 1.0.7 (Atual)
+Liberada em 13/10/2020
+ - linhas de ônibus para todos os pontos de interesse da UnB (darcy, ceilândia, gama e planaltina).
+ - 78 linhas de ônibus ao total.
+
+Versão 1.0.6 (-1 mês)
 Liberada em 01/10/2020
  - Correção no design alerta para o open street maps.
  - Correção no cadastro e validação de alertas.
