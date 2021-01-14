@@ -15,28 +15,31 @@
 3. [Gama](https://www.busplays.com.br/unb-gama-ponto-de-interesse/)
 4. [Darcy](https://www.busplays.com.br/unb-darcy-ponto-de-interesse/)
 
-Versão 1.0.7 (Atual)
+Versão 1.0.8 (Atual)
+Liberada em 13/10/2020
+ - Nova página de pontos de interesse, com lista dos campus e das cidades.
+
+Versão 1.0.7 (+3 mês)
 Liberada em 13/10/2020
  - linhas de ônibus para todos os pontos de interesse da UnB (darcy, ceilândia, gama e planaltina).
  - 78 linhas de ônibus ao total.
 
-Versão 1.0.6 (-1 mês)
+Versão 1.0.6 (+3 mês)
 Liberada em 01/10/2020
  - Correção no design alerta para o open street maps.
  - Correção no cadastro e validação de alertas.
 
-Versão 1.0.5 (+3 mês)
+Versão 1.0.5 (+6 mês)
 Liberada em 03/07/2020
  - Pesquisa Origem/Destino: Pesquisa as cidades de origem por meio de lista dropdown.
  - Funcionalidade que mostra a linha de ônibus da cidade para o campus específico.
 
-Versão 1.0.4 (+5 mês)
-Liberada em 15/04/2020
+
+##Versão 1.0.0 a 1.0.4 (Antiga)
+
+20/01/2020 a 15/04/2020:
  - Correção no design das páginas sobre, alerta, acesso, udemy (curso qgis), mídia. Todas estão sob o fundo branco e background azul claro.
  - Mensagem sobre o período de pandemia do coronavirus na home.
-
-Versão 1.0.0 a 1.0.3 (Antiga)
-20/01/2020 a 15/03/2020:
  - criação das páginas dos pontos de interesse para os campus da UnB do plano piloto, ceilândia, gama e planaltina. Esses quatro pontos de interesse, são os testes principais para 2020.
  - criação das páginas das cidades, para servir como ponto de origem para os embarques. Por hora as páginas ainda não recebem conteúdo de linhas de ônibus ou metrô, porque a ferramenta será testada ao longo do mês de março.
  - criada a página do ponto de interesse para o campus Darcy Ribeiro, com design preliminar, mas com informações atualizadas pelo geojson das linhas direto para esse ponto de interesse.
