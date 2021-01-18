@@ -1,5 +1,5 @@
 var polyline = L.polyline(latlngs, {color: 'green'}).addTo(map);
-// zoom the map to the polyline
+// zoom the map to the polylinee
 map.fitBounds(polyline.getBounds());
 
 // add an OpenStreetMap tile layer
