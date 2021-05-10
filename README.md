@@ -7,6 +7,7 @@
 2. [Alerta](http://www.busplays.com.br/home/alerta/)
 3. [Acesso/Cadastro](http://www.busplays.com.br/home/acesso/)
 4. [Sobre](http://www.busplays.com.br/home/acesso/)
+5. [Criar Conta](https://www.busplays.com.br/minha-conta/)
 
 ## Ponto de interesse:
 
@@ -15,22 +16,30 @@
 3. [Gama](https://www.busplays.com.br/unb-gama-ponto-de-interesse/)
 4. [Darcy](https://www.busplays.com.br/unb-darcy-ponto-de-interesse/)
 
-Versão 1.0.7 (Atual)
+Versão (Atual)
+Liberada (10/05/2021)
+ - Usuários podem se cadastrar, criando uma conta.
+
+Versão 1.0.8 (-3 mês)
+Liberada (10/02/2021)
+ - Reativação do Blog com informações sobre o cotidiano do transporte público no DF.
+
+Versão 1.0.7 (Antiga)
 Liberada em 13/10/2020
  - linhas de ônibus para todos os pontos de interesse da UnB (darcy, ceilândia, gama e planaltina).
  - 78 linhas de ônibus ao total.
 
-Versão 1.0.6 (-1 mês)
+Versão 1.0.6 (Antiga)
 Liberada em 01/10/2020
  - Correção no design alerta para o open street maps.
  - Correção no cadastro e validação de alertas.
 
-Versão 1.0.5 (+3 mês)
+Versão 1.0.5 (Antiga)
 Liberada em 03/07/2020
  - Pesquisa Origem/Destino: Pesquisa as cidades de origem por meio de lista dropdown.
  - Funcionalidade que mostra a linha de ônibus da cidade para o campus específico.
 
-Versão 1.0.4 (+5 mês)
+Versão 1.0.4 (Antiga)
 Liberada em 15/04/2020
  - Correção no design das páginas sobre, alerta, acesso, udemy (curso qgis), mídia. Todas estão sob o fundo branco e background azul claro.
  - Mensagem sobre o período de pandemia do coronavirus na home.
