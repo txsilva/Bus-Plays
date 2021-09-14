@@ -19,7 +19,7 @@
 Versão (Atual)
 Liberada (14/09/2021)
  - Pesquisa origem e destino na página inicial por ponto de interesse.
- - 
+  
 Liberada (-6 mês)
  - Usuários podem se cadastrar, criando uma conta.
 
