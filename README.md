@@ -16,11 +16,11 @@
 3. [Gama](https://www.busplays.com.br/unb-gama-ponto-de-interesse/)
 4. [Darcy](https://www.busplays.com.br/unb-darcy-ponto-de-interesse/)
 
-Versão (Atual)
+Versão 1.10 (Atual)
 Liberada (14/09/2021)
  - Pesquisa origem e destino na página inicial por ponto de interesse.
   
-Liberada (-6 mês)
+Versão 1.0.9 (-6 mês)
  - Usuários podem se cadastrar, criando uma conta.
 
 Versão 1.0.8 (-6 mês)
