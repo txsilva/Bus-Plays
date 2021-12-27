@@ -4,10 +4,9 @@
 ## Mobilidade como um Serviço.
 
 1. [Página principal](http://www.busplays.com.br/)
-2. [Alerta](http://www.busplays.com.br/home/alerta/)
-3. [Acesso/Cadastro](http://www.busplays.com.br/home/acesso/)
-4. [Sobre](http://www.busplays.com.br/home/acesso/)
-5. [Criar Conta](https://www.busplays.com.br/minha-conta/)
+2. [Sobre](http://www.busplays.com.br/acesso/)
+3. [Alerta](http://www.busplays.com.br/alerta/)
+4. [Blog](http://www.busplays.com.br/blog/)
 
 ## Ponto de interesse:
 
