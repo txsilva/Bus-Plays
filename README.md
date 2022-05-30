@@ -1,40 +1,22 @@
-# [Bus Plays](https://www.busplays.com.br/)
+# [Bus Plays]
 ======
+PROJETO DESATIVADO em 10/05/2022. Não recebe novas alterações desde 30/05/2022.
 
-## Mobilidade como um Serviço.
+Versão 1.12 (atual)
+Liberada (30/05/2022)
+- Desativação do site.
 
-1. [Página principal](http://www.busplays.com.br/)
-2. [Sobre](http://www.busplays.com.br/acesso/)
-3. [Alerta](http://www.busplays.com.br/alerta/)
-4. [Blog](http://www.busplays.com.br/blog/)
-
-## Ponto de interesse:
-
-1. [Ceilândia](https://www.busplays.com.br/unb-ceilandia-ponto-de-interesse/)
-2. [Planaltina](https://www.busplays.com.br/unb-planaltina-ponto-de-interesse/)
-3. [Gama](https://www.busplays.com.br/unb-gama-ponto-de-interesse/)
-4. [Darcy](https://www.busplays.com.br/unb-darcy-ponto-de-interesse/)
-
-Versão 1.11 (Atual)
+Versão 1.11 (- 6 mês)
 Liberada (27/12/2021)
  - Atualização da política de privacidade e dos termos de uso com a LGPD e legislação brasileira.
  - Excluída a área de criação de conta com o plugin User Reigstration, ele havia alterado o login para o painel administrativo.
  - Ativada a manutenção completa do site.
 
-Versão 1.10 (- 6 mês)
-Liberada (14/09/2021)
+Versão 1.10 (Antiga )
+20/01/2020 a 14/09/2021:
  - Pesquisa origem e destino na página inicial por ponto de interesse.
-  
-Versão 1.0.9 (-6 mês)
-Liberada (17/08/2021)
  - Usuários podem se cadastrar, criando uma conta.
-
-Versão 1.0.8 (Antiga)
-Liberada (10/02/2021)
  - Reativação do Blog com informações sobre o cotidiano do transporte público no DF.
-
-Versão 1.0.0 a 1.0.7 (Antiga)
-20/01/2020 a 13/10/2020:
  - linhas de ônibus para todos os pontos de interesse da UnB (darcy, ceilândia, gama e planaltina).
  - 78 linhas de ônibus ao total.
  - Correção no design alerta para o open street maps.
